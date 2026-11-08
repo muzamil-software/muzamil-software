@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="360" alt="Screenshot_20261109_031753" src="https://github.com/user-attachments/assets/488b542a-67f2-4f17-9b9a-11b236e20b5e" />
 
 <!--
 **muzamil-software/muzamil-software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
